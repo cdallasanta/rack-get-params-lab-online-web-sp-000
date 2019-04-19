@@ -37,5 +37,6 @@ class Application
   end
 
   def items_in_cart
+    []
   end
 end
